@@ -8,8 +8,41 @@ Welcome to my data science playground! Explore a variety of projects I've undert
 
 To run these Python notebooks locally, follow these simple steps:
 
-1. Install dependencies by running `pip install -r requirements.txt`.
-2. Start a Jupyter Notebook server or use your preferred environment to run the notebooks.
+To run these Python notebooks on your local machine, follow these simple steps:
+
+Python Installation:
+Ensure you have Python installed on your computer. You can download Python from the official website here and follow the installation instructions for your operating system.
+
+Package Manager:
+Use a package manager like pip (Python's package installer) to install the required libraries and dependencies. Open your command prompt or terminal and run the following command, replacing <library_name> with the names of libraries mentioned in the notebook (e.g., NumPy, Pandas, Matplotlib, etc.). Install all the necessary libraries mentioned in the notebook.
+
+bash
+Copy code
+pip install <library_name>
+Jupyter Notebook:
+If the notebook is in a Jupyter Notebook format (with the .ipynb extension), you need to install Jupyter Notebook. You can do this with pip:
+
+bash
+Copy code
+pip install notebook
+Launch Jupyter Notebook:
+Open your command prompt or terminal, navigate to the directory where your notebook is located, and run the following command:
+
+bash
+Copy code
+jupyter notebook
+This will open a web browser displaying your local Jupyter Notebook environment.
+
+Open Notebook:
+In the Jupyter Notebook dashboard, navigate to the directory where your notebook is located and click on the notebook's name to open it.
+
+Execute Code:
+Inside the notebook, you can execute code cells one by one by selecting a cell and clicking the "Run" button or by using the Shift + Enter keyboard shortcut.
+
+Save Your Work:
+Make sure to save your changes in the notebook as you progress through it.
+
+By following these steps, you should be able to run and interact with Python notebooks locally on your machine.
 
 ## 📂 Project Categories
 
