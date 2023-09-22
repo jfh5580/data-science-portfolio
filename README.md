@@ -15,11 +15,11 @@ To run these Python notebooks locally, follow these simple steps:
 
 ### 🤖 Machine Learning
 
-- **Predicting Boston Housing Prices**: Utilizing various statistical tools to predict house prices in the Boston real estate market. 
+- **Capital Bikeshare Machine Learning Predictions**: Focusing on specific days, pick-ups, and drop-offs for each station, selecting interpretable linear regression models. 
   [View Project](projects/Bank_Marketing_Final_JOON.ipynb)
 
-- **Supervised Learning: Finding Donors for CharityML**: Experimenting with multiple supervised learning algorithms to predict individual income, assisting a nonprofit organization's donor search.
-  [View Project]()
+- **Building a Classification Model for Targeted Banking Marketing Campaigns**: Developing a predictive model that identifies potential customers likely to subscribe, optimizing marketing efforts, and increasing profitability.
+  [View Project](projects/Bank_Marketing_Final_JOON.ipynb)
 
 - **Unsupervised Learning: Creating Customer Segments**: Analyzing customer spending data to unveil patterns and segments within the customer base.
   [View Project]()
