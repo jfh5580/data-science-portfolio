@@ -16,7 +16,7 @@ To run these Python notebooks locally, follow these simple steps:
 ### 🤖 Machine Learning
 
 - **Capital Bikeshare Machine Learning Predictions**: Focusing on specific days, pick-ups, and drop-offs for each station, selecting interpretable linear regression models. 
-  [View Project](projects/Bank_Marketing_Final_JOON.ipynb)
+  [View Project](projects/CapitalBikeshare_project.ipynb)
 
 - **Building a Classification Model for Targeted Banking Marketing Campaigns**: Developing a predictive model that identifies potential customers likely to subscribe, optimizing marketing efforts, and increasing profitability.
   [View Project](projects/Bank_Marketing_Final_JOON.ipynb)
