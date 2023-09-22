@@ -16,7 +16,7 @@ To run these Python notebooks locally, follow these simple steps:
 ### 🤖 Machine Learning
 
 - **Predicting Boston Housing Prices**: Utilizing various statistical tools to predict house prices in the Boston real estate market. 
-  [View Project]()
+  [View Project](projects/Bank_Marketing_Final_JOON.ipynb)
 
 - **Supervised Learning: Finding Donors for CharityML**: Experimenting with multiple supervised learning algorithms to predict individual income, assisting a nonprofit organization's donor search.
   [View Project]()
