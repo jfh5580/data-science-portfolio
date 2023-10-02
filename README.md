@@ -29,7 +29,7 @@ To run these Python notebooks locally, follow these simple steps:
 - **Predicting Insurance Premiums using Insurance Dataset**: Enabling the insurance company to make more informed pricing decisions and better manage their financial risk.
   [View Project](projects/Insurance_Linear_Regression.ipynb)
 
-- **Titanic Dataset - Exploratory Analysis**: Exploring passenger data from the Titanic using Pandas and Seaborn visualizations.
+- **Survival Status - Titanic**: Predicting Survival Status using Logistic Regression with Titanic Passenger Information Dataset using Pandas and Seaborn visualizations.
   [View Project](https://github.com/sajal2692/data-science-portfolio/blob/master/Titanic%20Dataset%20-%20Exploratory%20Analysis.ipynb)
 
 - **Stock Market Analysis for Tech Stocks**: Analyzing technology stocks, including price changes over time, daily returns, and stock behavior predictions.
