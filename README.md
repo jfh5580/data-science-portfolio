@@ -30,7 +30,7 @@ To run these Python notebooks locally, follow these simple steps:
   [View Project](projects/Insurance_Linear_Regression.ipynb)
 
 - **Survival Status - Titanic**: Predicting Survival Status using Logistic Regression with Titanic Passenger Information Dataset using Pandas and Seaborn visualizations.
-  [View Project](https://github.com/sajal2692/data-science-portfolio/blob/master/Titanic%20Dataset%20-%20Exploratory%20Analysis.ipynb)
+  [View Project](projects/Titanic_Logistic_Regression.ipynb)
 
 - **Stock Market Analysis for Tech Stocks**: Analyzing technology stocks, including price changes over time, daily returns, and stock behavior predictions.
   [View Project](https://github.com/sajal2692/data-science-portfolio/blob/master/Stock%20Market%20Analysis%20for%20Tech%20Stocks.ipynb)
