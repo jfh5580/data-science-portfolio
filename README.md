@@ -13,7 +13,7 @@ To run these Python notebooks locally, follow these simple steps:
    
 ## 📂 Project Categories
 
-### 🤖 Machine Learning
+### 🤖 Advanced Machine Learning
 
 - **Capital Bikeshare Machine Learning Predictions**: Focusing on specific days, pick-ups, and drop-offs for each station, selecting interpretable linear regression models. 
   [View Project](projects/CapitalBikeshare_project.ipynb)
@@ -24,9 +24,9 @@ To run these Python notebooks locally, follow these simple steps:
 - **Fair Lending Risk Analysis**: Leading an in-depth analysis of Home Mortgage Disclosure Act data, identifying potential disparities in lending practices
   [View Project](https://github.com/jfh5580/DNSC6290_RML)
 
-### 📊 Data Analysis and Visualization
+### 📊 Machine Learning and Data Analysis 
 
-- **Scalable Walkability Analysis of Melbourne**: Investigating the walkability of Melbourne suburbs and its implications.
+- **Predicting Insurance Premiums using Insurance Dataset**: Enabling the insurance company to make more informed pricing decisions and better manage their financial risk.
   [View Project](https://github.com/sajal2692/Scalable-Walkability-Analysis-of-Melbourne)
 
 - **Titanic Dataset - Exploratory Analysis**: Exploring passenger data from the Titanic using Pandas and Seaborn visualizations.
