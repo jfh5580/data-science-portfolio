@@ -27,7 +27,7 @@ To run these Python notebooks locally, follow these simple steps:
 ### 📊 Machine Learning and Data Analysis 
 
 - **Predicting Insurance Premiums using Insurance Dataset**: Enabling the insurance company to make more informed pricing decisions and better manage their financial risk.
-  [View Project](https://github.com/sajal2692/Scalable-Walkability-Analysis-of-Melbourne)
+  [View Project](projects/Insurance_Linear_Regression.ipynb)
 
 - **Titanic Dataset - Exploratory Analysis**: Exploring passenger data from the Titanic using Pandas and Seaborn visualizations.
   [View Project](https://github.com/sajal2692/data-science-portfolio/blob/master/Titanic%20Dataset%20-%20Exploratory%20Analysis.ipynb)
