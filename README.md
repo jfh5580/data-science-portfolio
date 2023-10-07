@@ -27,7 +27,7 @@ To run these Python notebooks locally, follow these simple steps:
 ### 🖥️ Deep Learning and NLP
 
 - **GPT 3.5 Model Synthesized Customer Complaints Prompt Engineering**: Using large language models (LLMs) to create or expand a dataset of synthesized customer complaints that could then be used to test the complaint-classification NLP models.
-  [View Project](projects/CapitalBikeshare_project.ipynb)
+  [View Project](projects/GPT3_5_Prompt_Engineering.ipynb)
 
 ### 📊 Machine Learning and Data Analysis 
 
