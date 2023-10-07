@@ -24,6 +24,11 @@ To run these Python notebooks locally, follow these simple steps:
 - **Fair Lending Risk Analysis**: Leading an in-depth analysis of Home Mortgage Disclosure Act data, identifying potential disparities in lending practices
   [View Project](https://github.com/jfh5580/DNSC6290_RML)
 
+### 🖥️ Deep Learning and NLP
+
+- **GPT 3.5 Model Synthesized Customer Complaints Prompt Engineering**: Using large language models (LLMs) to create or expand a dataset of synthesized customer complaints that could then be used to test the complaint-classification NLP models.
+  [View Project](projects/CapitalBikeshare_project.ipynb)
+
 ### 📊 Machine Learning and Data Analysis 
 
 - **Predicting Insurance Premiums using Insurance Dataset**: Enabling the insurance company to make more informed pricing decisions and better manage their financial risk.
