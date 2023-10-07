@@ -47,4 +47,4 @@ Start a Jupyter notebook server or use your preferred environment to run the not
 
 ## 📧 Let's Connect!
 
-If you have questions, feedback, or would like to collaborate, feel free to reach out to me at [contact](joonhong96@gwu.edu)
+If you have questions, feedback, or would like to collaborate, feel free to reach out to me at [contact](https://github.com/jfh5580)
