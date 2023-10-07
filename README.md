@@ -8,8 +8,7 @@ Welcome to my data science playground! Explore a variety of projects I've undert
 
 To run these Python notebooks locally, follow these simple steps:
 
-1. Install dependencies by running `pip install -r requirements.txt`.
-2. Start a Jupyter notebook server or use your preferred environment to run the notebooks.
+Start a Jupyter notebook server or use your preferred environment to run the notebooks.
    
 ## 📂 Project Categories
 
