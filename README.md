@@ -36,7 +36,7 @@ Start a Jupyter notebook server or use your preferred environment to run the not
 - **Survival Status - Titanic**: Predicting Survival Status using Logistic Regression with Titanic Passenger Information Dataset using Pandas and Seaborn visualizations.
   [View Project](projects/Titanic_Logistic_Regression.ipynb)
 
-- **Stock Market Analysis for Tech Stocks**: Analyzing technology stocks, including price changes over time, daily returns, and stock behavior predictions.
+- **Customer Data Visualization using PCA**: Gaining valuable insights from customer information by employing a dimension reduction technique known as PCA.
   [View Project](https://github.com/sajal2692/data-science-portfolio/blob/master/Stock%20Market%20Analysis%20for%20Tech%20Stocks.ipynb)
 
 - **2016 US General Election Poll Data Analysis**: A simple analysis of 2016 US General Election Poll data.
