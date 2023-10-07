@@ -37,7 +37,7 @@ Start a Jupyter notebook server or use your preferred environment to run the not
   [View Project](projects/Titanic_Logistic_Regression.ipynb)
 
 - **Customer Data Visualization using PCA**: Gaining valuable insights from customer information by employing a dimension reduction technique known as PCA.
-  [View Project](https://github.com/sajal2692/data-science-portfolio/blob/master/Stock%20Market%20Analysis%20for%20Tech%20Stocks.ipynb)
+  [View Project](projects/PCA_Visualization.ipynb)
 
 - **2016 US General Election Poll Data Analysis**: A simple analysis of 2016 US General Election Poll data.
   [View Project](https://github.com/sajal2692/data-science-portfolio/blob/master/2016%20General%20Election%20Poll%20Analysis.ipynb)
