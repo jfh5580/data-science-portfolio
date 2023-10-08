@@ -25,7 +25,7 @@ Start a Jupyter notebook server or use your preferred environment to run the not
 
 ### 🖥️ Deep Learning and NLP
 
-- **GPT 3.5 Model Synthesized Customer Complaints Prompt Engineering**: Using large language models (LLMs) to create or expand a dataset of synthesized customer complaints that could then be used to test the complaint-classification NLP models.
+- **Engineering Customer Complaint Prompts with the GPT-3.5 Model**: Leveraging large language models (LLMs) to generate and augment a dataset of synthetic customer complaints for testing complaint-classification NLP models.
   [View Project](projects/GPT3_5_Prompt_Engineering.ipynb)
 
 - **Spam Email Classification Using Naive Bayes**: leveraging the power of the Naive Bayes algorithm, this project aims to provide an effective solution for automating the identification of spam emails, ultimately improving email communication and security.
