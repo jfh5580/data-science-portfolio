@@ -33,6 +33,9 @@ Start a Jupyter notebook server or use your preferred environment to run the not
 
 ### 📊 Machine Learning and Data Analysis 
 
+- **Detecting Anomalous Credit Card Transactions with LightGBM**:  Utilizing the LightGBM (Light Gradient Boosting Machine) algorithm to identify and detect anomalous transactions within a credit card transaction dataset.
+  [View Project](projects/Insurance_Linear_Regression.ipynb)
+
 - **Predicting Insurance Premiums using Insurance Dataset**: Enabling the insurance company to make more informed pricing decisions and better manage their financial risk.
   [View Project](projects/Insurance_Linear_Regression.ipynb)
 
