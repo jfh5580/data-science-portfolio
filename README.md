@@ -28,6 +28,9 @@ Start a Jupyter notebook server or use your preferred environment to run the not
 - **GPT 3.5 Model Synthesized Customer Complaints Prompt Engineering**: Using large language models (LLMs) to create or expand a dataset of synthesized customer complaints that could then be used to test the complaint-classification NLP models.
   [View Project](projects/GPT3_5_Prompt_Engineering.ipynb)
 
+- **Spam Email Classification Using Naive Bayes**: leveraging the power of the Naive Bayes algorithm, this project aims to provide an effective solution for automating the identification of spam emails, ultimately improving email communication and security.
+  [View Project](projects/Spam_Naive_Bayes.ipynb)
+
 ### 📊 Machine Learning and Data Analysis 
 
 - **Predicting Insurance Premiums using Insurance Dataset**: Enabling the insurance company to make more informed pricing decisions and better manage their financial risk.
@@ -39,11 +42,6 @@ Start a Jupyter notebook server or use your preferred environment to run the not
 - **Customer Data Visualization using PCA**: Gaining valuable insights from customer information by employing a dimension reduction technique known as PCA.
   [View Project](projects/PCA_Visualization.ipynb)
 
-- **2016 US General Election Poll Data Analysis**: A simple analysis of 2016 US General Election Poll data.
-  [View Project](https://github.com/sajal2692/data-science-portfolio/blob/master/2016%20General%20Election%20Poll%20Analysis.ipynb)
-
-- **911 Calls - Exploratory Analysis**: Exploring and analyzing the 911 calls dataset hosted on Kaggle, including the extraction of useful features.
-  [View Project](https://github.com/sajal2692/data-science-portfolio/blob/master/911%20Calls%20-%20Exploratory%20Analysis.ipynb)
 
 ## 📧 Let's Connect!
 
