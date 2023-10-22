@@ -25,7 +25,7 @@ Start a Jupyter notebook server or use your preferred environment to run the not
 
 ### 🖥️ Deep Learning and NLP
 
-- **Coffee Bean Roast Classification with CNN**: Classifying coffee beans based on their roast levels. The aim is to create a model that can automatically determine the roast level of a coffee bean from images of the beans.[View Project](projects/projects/CoffeeBeansRoast_CNN.ipynb)
+- **Coffee Bean Roast Classification with CNN**: Classifying coffee beans based on their roast levels. The aim is to create a model that can automatically determine the roast level of a coffee bean from images of the beans.[View Project](projects/CoffeeBeansRoast_CNN.ipynb)
 
 - **Engineering Customer Complaint Prompts with the GPT-3.5 Model**: Leveraging large language models (LLMs) to generate and augment a dataset of synthetic customer complaints for testing complaint-classification NLP models.
   [View Project](projects/GPT3_5_Prompt_Engineering.ipynb)
