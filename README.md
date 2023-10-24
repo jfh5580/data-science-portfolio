@@ -27,7 +27,7 @@ Start a Jupyter notebook server or use your preferred environment to run the not
 
 - **Coffee Bean Roast Classification with CNN**: Classifying coffee beans based on their roast levels. The aim is to create a model that can automatically determine the roast level of a coffee bean from images of the beans.[View Project](projects/CoffeeBeansRoast_CNN.ipynb)
 
-- **Engineering Customer Complaint Prompts with the GPT-3.5 Model**: Leveraging large language models (LLMs) to generate and augment a dataset of synthetic customer complaints for testing complaint-classification NLP models.
+- **Engineering Customer Complaint Prompts with the GPT-3.5 and Llama 2 Model**: Leveraging large language models (LLMs) to generate and augment a dataset of synthetic customer complaints for testing complaint-classification NLP models.
   [View Project](projects/GPT3_5_Prompt_Engineering.ipynb)
 
 - **Spam Email Classification Using Naive Bayes**: leveraging the power of the Naive Bayes algorithm, this project aims to provide an effective solution for automating the identification of spam emails, ultimately improving email communication and security.
