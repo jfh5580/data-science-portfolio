@@ -12,6 +12,12 @@ Start a Jupyter notebook server or use your preferred environment to run the not
    
 ## 📂 Project Categories
 
+
+### 📈 Quantitative Analysis
+
+- **Quantitative_Investment_Strategy_Telsa**: Leveraging ChatGPT's capabilities to design cutting-edge quantitative investment strategies for individuals interested in Telsa stock.
+   [View Project](projects/Quantitative_Investment_Strategy_Telsa.ipynb)
+
 ### 🤖 Advanced Machine Learning
 
 - **Capital Bikeshare Machine Learning Predictions**: Focusing on specific days, pick-ups, and drop-offs for each station, selecting interpretable linear regression models. 
