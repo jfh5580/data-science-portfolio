@@ -31,7 +31,7 @@ Start a Jupyter notebook server or use your preferred environment to run the not
 
 ### 🖥️ Deep Learning and NLP
 
-- **Short reviews support for new stock investors with GPT**: Developing a strategy using GPT 3.5 to generate news summaries and offer multilingual services for novice stock investors.[View Project](projects/CoffeeBeansRoast_CNN.ipynb)
+- **Short reviews support for new stock investors with GPT**: Developing a strategy using GPT 3.5 to generate news summaries and offer multilingual services for novice stock investors.[View Project](projects/CoffeeBeansRoast_CNN.ipynb](https://github.com/jfh5580/data-science-portfolio/blob/main/projects/LLMs/Final_Project_Codes_aapl.ipynb)
 
 - **Coffee Bean Roast Classification with CNN**: Classifying coffee beans based on their roast levels. The aim is to create a model that can automatically determine the roast level of a coffee bean from images of the beans.[View Project](projects/CoffeeBeansRoast_CNN.ipynb)
 
