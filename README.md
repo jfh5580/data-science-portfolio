@@ -16,7 +16,7 @@ Start a Jupyter notebook server or use your preferred environment to run the not
 ### 📈 Quantitative Analysis
 
 - **Quantitative_Investment_Strategy_Telsa**: Leveraging ChatGPT's capabilities to design cutting-edge quantitative investment strategies for individuals interested in Telsa stock.
-   [View Project](projects/Quantitative_Investment_Strategy_Telsa.ipynb)
+   [View Project](https://github.com/jfh5580/data-science-portfolio/blob/main/projects/LLMs/Final_Project_Codes_aapl.ipynb)
 
 ### 🤖 Advanced Machine Learning
 
